@@ -68,7 +68,11 @@ packages:
       path: ".."
       relative: true
     source: path
+<<<<<<< HEAD
     version: "1.1.0-nullsafety.0"
+=======
+    version: "1.0.6"
+>>>>>>> 327ac5d95cdefc0ddf6d230b38bddd27b07217f7
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -94,7 +98,7 @@ packages:
       name: multi_image_picker
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.1.2"
+    version: "4.8.01"
   path:
     dependency: transitive
     description:
@@ -165,4 +169,8 @@ packages:
     version: "2.1.0"
 sdks:
   dart: ">=2.12.0 <3.0.0"
+<<<<<<< HEAD
   flutter: ">=0.1.4"
+=======
+  flutter: ">=1.12.13"
+>>>>>>> 327ac5d95cdefc0ddf6d230b38bddd27b07217f7
